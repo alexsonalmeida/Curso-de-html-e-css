@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    border-radius: 6px;    
+    background-color: black;
+    color: white;
+    margin: 8%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    padding: 30px;
+    padding-top: 15px;
+    max-width: 1500px;
+}
+
+span {
+    color: #febe01;
+}
+
+button {
+    background-color: #febe01;
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+}
